@@ -42,8 +42,8 @@ bodyClass: "page-teams"
         {% endfor %}
     </div>
     <div class="row pt-6 pb-6">
-        {% assign teams = site.team | where: "role", "phd" | sort: "weight" %}
-        {% for team in teams %}
+        {% assign phds = site.team | where: "role", "phd" | sort: "weight" %}
+        {% for team in phds %}
         <div class="col-12 col-md-4 mb-3">
             <div class="team team-summary">
                 {% if team.image %}
@@ -60,8 +60,26 @@ bodyClass: "page-teams"
         {% endfor %}
     </div>
     <div class="row pt-6 pb-6">
-        {% assign teams = site.team | where: "role", "alumni" | sort: "weight" %}
-        {% for team in teams %}
+        {% assign phds = site.team | where: "role", "master" | sort: "weight" %}
+        {% for team in phds %}
+        <div class="col-12 col-md-4 mb-3">
+            <div class="team team-summary">
+                {% if team.image %}
+                <div class="team-image">
+                    <img width="60" height="60" alt="{{ team.title }}" class="img-fluid mb-2" src="{{ team.image | relative_url }}" />
+                </div>
+                {% endif %}
+                <div class="team-meta">
+                    <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
+                    <p class="team-description">{{ team.jobtitle }}</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="row pt-6 pb-6">
+        {% assign alumni = site.team | where: "role", "alumni" | sort: "weight" %}
+        {% for team in alumni %}
         <div class="col-12 col-md-4 mb-3">
             <div class="team team-summary">
                 {% if team.image %}

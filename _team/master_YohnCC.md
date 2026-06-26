@@ -1,10 +1,10 @@
 ---
-title: "Andrés Rodriguez Murillo"
+title: "Yhon Castañeda Ceballos"
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "PhD Student"
 linkedinurl: "https://www.linkedin.com/example2"
-role: phd
-weight: 2
+role: master
+weight: 3
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
