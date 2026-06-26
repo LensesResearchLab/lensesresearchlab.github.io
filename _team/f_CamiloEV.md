@@ -1,6 +1,6 @@
 ---
 title: "Camilo Escobar-Velásquez"
-image: "images/team/f_CamiloEV"
+image: "images/team/f_CamiloEV.jpeg"
 jobtitle: "Director"
 linkedinurl: "https://www.linkedin.com/"
 role: faculty

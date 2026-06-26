@@ -44,7 +44,7 @@ bodyClass: "page-teams"
     <div class="row pt-6 pb-6">
         {% assign phds = site.team | where: "role", "phd" | sort: "weight" %}
         {% for team in phds %}
-        <div class="col-12 col-md-4 mb-3">
+        <div class="col-12 col-md-6 mb-3">
             <div class="team team-summary">
                 {% if team.image %}
                 <div class="team-image">
@@ -62,7 +62,7 @@ bodyClass: "page-teams"
     <div class="row pt-6 pb-6">
         {% assign phds = site.team | where: "role", "master" | sort: "weight" %}
         {% for team in phds %}
-        <div class="col-12 col-md-4 mb-3">
+        <div class="col-12 col-md-6 mb-3">
             <div class="team team-summary">
                 {% if team.image %}
                 <div class="team-image">

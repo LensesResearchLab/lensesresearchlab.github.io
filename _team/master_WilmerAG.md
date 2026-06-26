@@ -1,5 +1,5 @@
 ---
-title: "Juan Diego Yepes Parra"
+title: "Wilmer Arevalo Gonzalez"
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "PhD Student"
 linkedinurl: "https://www.linkedin.com/example2"
