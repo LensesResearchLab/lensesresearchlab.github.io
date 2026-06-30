@@ -1,8 +1,8 @@
 ---
-title: "Yhon Castañeda Ceballos"
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "PhD Student"
-linkedinurl: "https://www.linkedin.com/example2"
+title: "Santiago Bobadilla Suarez"
+image: "images/team/ms_SantiagoBS.jpeg"
+jobtitle: "Master Student - MISIS"
+topic: "Agentic Repair of KMP apps"
 role: master
 weight: 3
 ---

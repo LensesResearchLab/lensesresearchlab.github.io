@@ -1,10 +1,10 @@
 ---
-title: "Wilmer Arevalo Gonzalez"
+title: "Yhon Castañeda Ceballos"
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "PhD Student"
-linkedinurl: "https://www.linkedin.com/example2"
+jobtitle: "Master Student - MISIS"
+topic: "Agentic Infraestructure"
 role: master
-weight: 2
+weight: 3
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,

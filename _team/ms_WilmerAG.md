@@ -1,10 +1,10 @@
 ---
-title: "Santiago Bobadilla Suarez"
+title: "Wilmer Arevalo Gonzalez"
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "PhD Student"
-linkedinurl: "https://www.linkedin.com/example2"
+jobtitle: "Master Student - MISO"
+topic: "Software for Medical Purposes"
 role: master
-weight: 3
+weight: 2
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,

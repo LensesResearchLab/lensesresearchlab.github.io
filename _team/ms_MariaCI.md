@@ -1,9 +1,9 @@
 ---
-title: "Diego Leal Hernandez"
-image: "images/team/phd_DiegoL.jpeg"
-jobtitle: "PhD Student"
-linkedinurl: "https://www.linkedin.com/example2"
-role: phd
+title: "Maria Castro Iregui"
+image: "images/team/ms_MariaC.jpeg"
+jobtitle: "Master Student - MISIS"
+topic: "Agentic Infraestructure"
+role: master
 weight: 3
 ---
 
